@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curriculo-App-Back", "Curriculo-App-Back.csproj", "{F84D309B-96AA-4FF0-919A-9AD3CAF33DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84D309B-96AA-4FF0-919A-9AD3CAF33DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84D309B-96AA-4FF0-919A-9AD3CAF33DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84D309B-96AA-4FF0-919A-9AD3CAF33DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84D309B-96AA-4FF0-919A-9AD3CAF33DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D56AF9E-B451-4EE8-A617-0906C0DB734F}
+	EndGlobalSection
+EndGlobal
