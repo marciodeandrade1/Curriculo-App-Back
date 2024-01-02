@@ -1,7 +1,10 @@
-﻿namespace Curriculo_App_Back.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Curriculo_App_Back.Models
 {
     public class Formacao
     {
+        [Key]
         public int IdFormacao { get; set; }
         public string Instituicao { get; set; }
         public string Curso { get; set; }
